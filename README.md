@@ -1,6 +1,6 @@
-# CSCE-3550-Project-1
+# CSCE-3550-Project-2
  Aaron Pham
- February 28, 2024
+ March 20, 2024
  RESTful JWKS server
 
 Requires pip installations of flask, cryptography, and pyJWT
